@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "David H Hagan",
+    "label": "PhD Student",
+    "summary": [
+      "Currently, I am a graduate student studying Atmospheric Chemistry and Physics",
+      "in the lab of Professor Jesse Kroll at MIT. My research is focused on developing",
+      "low-cost instruments for volatile organic compounds. Outside of the lab, I work as a",
+      "software engineer primarily in the areas of scientific computing and data acquisition."
+    ],
+    "website": "https://www.davidhagan.me",
+    "phone": "707-227-6695",
+    "email": "david@davidhhagan.com",
+    "location": {
+      "address": "3 Dane St Unit 1",
+      "postalCode": "02143",
+      "city": "Cambridge",
+      "countryCode": "US",
+      "region": "MA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "dhhagn",
+        "url": "https://github.com/dhhagan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tata Center for Technology and Design",
+      "website": "https://area52.io/does-not-exist",
+      "position": "Graduate Fellow",
+      "startDate": "2014-09",
+      "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
+      "highlights": [
+        "Managed a 5-person development team",
+        "Accomplishment 2",
+        "Etc."
+      ]
+    },
+    {
+      "company": "Veridian Dynamics",
+      "website": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
+      "position": "Principal Developer",
+      "startDate": "2011-07",
+      "endDate": "2013-08",
+      "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
+      "highlights": [
+        "Managed a 5-person development team",
+        "Accomplishment 2",
+        "Etc."
+      ]
+    },
+    {
+      "company": "Stark Industries",
+      "position": "IT Administrator",
+      "startDate": "2008-10",
+      "endDate": "2011-06",
+      "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
+      "highlights": [
+        "Promoted to intermediate developer after 6 months",
+        "Accomplishment 2",
+        "Etc."
+      ]
+    },
+    {
+      "company": "Dunder Mifflin",
+      "position": "Intern",
+      "startDate": "2008-06",
+      "endDate": "2008-09",
+      "summary": "Performed IT administration and deployments for Dunder Mifflin.",
+      "highlights": [
+        "Supervised roll-out of Dunder Mifflin Infinity website.",
+        "Performed mission-critical system backups and ",
+        "Etc."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "gpa": "4.8",
+      "courses": [
+        "Atmospheric Chemistry",
+        "Aquatic Chemistry",
+        "Chemical Kinetics"
+      ],
+      "startDate": "2014-09",
+      "endDate": "current"
+    },
+    {
+      "institution": "Washington University in St. Louis",
+      "gpa": "3.5",
+      "courses": [
+        "Course 1",
+        "Course 2",
+        "Course 2"
+      ],
+      "startDate": "2011-09",
+      "endDate": "2013-05"
+    },
+    {
+      "institution": "Hendrix College",
+      "gpa": "3.3",
+      "courses": [
+        "Course 1",
+        "Course 2",
+        "Course 2"
+      ],
+      "startDate": "2006-09",
+      "endDate": "2011-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Hardware",
+      "level": "advanced",
+      "keywords": [
+        "ARDUINO",
+        "RASPBERRY PI",
+        "UPVERTER"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "advanced",
+      "keywords": [
+        "JavaScript",
+        "LAMP",
+        "MVC",
+        "REST",
+        "PYTHON",
+        "FLASK",
+        "PHP"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "intermediate",
+      "keywords": [
+        "Node.js",
+        "Bootstrap",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "intermediate",
+      "keywords": [
+        "MySQL",
+        "ORM",
+        "SQLITE3"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "intermediate",
+      "keywords": [
+        "AWS",
+        "EC2",
+        "DO",
+        "S3"
+      ]
+    },
+    {
+      "name": "Project",
+      "level": "intermediate",
+      "keywords": [
+        "GitHub"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "award",
+      "title": "William Cunningham Award",
+      "date": "2014",
+      "awarder": "AIChE"
+    },
+    {
+      "flavor": "honor",
+      "title": "Summa cum laude",
+      "date": "2012",
+      "awarder": "Cornell University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Building User Interfaces with Electron and Atom",
+      "publisher": "Code Project",
+      "releaseDate": "2011",
+      "website": "http://codeproject.com/build-ui-electron-atom.aspx"
+    },
+    {
+      "name": "Jane Fullstacker's Blog",
+      "publisher": "self",
+      "releaseDate": "2011",
+      "website": "http://janef.me"
+    },
+    {
+      "name": "Teach Yourself GORFF in 21 Days",
+      "publisher": "Amazon",
+      "releaseDate": "2008",
+      "website": "http://url.to.publication.com/blah",
+      "summary": "A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space."
+    }
+  ],
+  "interests": [
+    {
+      "name": "reading",
+      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "keywords": [
+        "mystery",
+        "Agatha Christie",
+        "John Grisham"
+      ]
+    },
+    {
+      "name": "hiking",
+      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+    },
+    {
+      "name": "yoga"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "Spanish",
+      "level": "Moderate",
+      "years": 10
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+name: 'David H Hagan'
+meta:
+  format: FRESH@0.6.0
+  version: 0.0.1
+info:
+  label: 'PhD Student'
+  characterClass: Programmer
+  brief:
+    - 'Currently, I am a graduate student studying Atmospheric Chemistry and Physics'
+    - 'in the lab of Professor Jesse Kroll at MIT. My research is focused on developing'
+    - 'low-cost instruments for volatile organic compounds. Outside of the lab, I work as a'
+    - 'software engineer primarily in the areas of scientific computing and data acquisition.'
+  quote: quote..
+contact:
+  website: 'https://www.davidhagan.me'
+  phone: 707-227-6695
+  email: david@davidhhagan.com
+location:
+  address: '3 Dane St Unit 1'
+  city: Cambridge
+  region: MA
+  code: '02143'
+  country: US
+social:
+  -
+    label: GitHub
+    network: GitHub
+    user: dhhagn
+    url: 'https://github.com/dhhagan'
+employment:
+  summary: '7+ years industry IT and software development experience.'
+  history:
+    -
+      employer: 'Tata Center for Technology and Design'
+      url: 'https://area52.io/does-not-exist'
+      position: 'Graduate Fellow'
+      summary: 'Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.'
+      start: 2014-09
+      keywords:
+        - Agile
+        - PM
+        - C
+        - C++
+        - R
+        - OpenGL
+        - Boost
+        - MySQL
+        - PostgreSQL
+        - JIRA
+      highlights:
+        - 'Managed a 5-person development team'
+        - 'Accomplishment 2'
+        - Etc.
+    -
+      employer: 'Veridian Dynamics'
+      url: 'https://en.wikipedia.org/wiki/Better_Off_Ted#Plot'
+      position: 'Principal Developer'
+      summary: 'Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.'
+      start: 2011-07
+      end: 2013-08
+      keywords:
+        - C++
+        - C
+        - Linux
+        - R
+        - Clojure
+      highlights:
+        - 'Managed a 5-person development team'
+        - 'Accomplishment 2'
+        - Etc.
+    -
+      employer: 'Stark Industries'
+      position: 'IT Administrator'
+      summary: 'Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.'
+      start: 2008-10
+      end: 2011-06
+      keywords:
+        - Novell
+        - 'Active Directory'
+        - Linux
+        - Windows
+      highlights:
+        - 'Promoted to intermediate developer after 6 months'
+        - 'Accomplishment 2'
+        - Etc.
+    -
+      employer: 'Dunder Mifflin'
+      position: Intern
+      summary: 'Performed IT administration and deployments for Dunder Mifflin.'
+      start: 2008-06
+      end: 2008-09
+      keywords:
+        - Novell
+        - 'Active Directory'
+        - Linux
+        - Windows
+      highlights:
+        - 'Supervised roll-out of Dunder Mifflin Infinity website.'
+        - 'Performed mission-critical system backups and '
+        - Etc.
+education:
+  summary: ""
+  level: degree
+  degree: BSCS
+  history:
+    -
+      institution: 'Massachusetts Institute of Technology'
+      title: PhD
+      url: 'http://web.mit.edu'
+      start: 2014-09
+      end: current
+      grade: '4.8'
+      summary: 'Atmospheric Chemistry and Physics student in the lab of Professor Jesse Kroll.'
+      curriculum:
+        - 'Atmospheric Chemistry'
+        - 'Aquatic Chemistry'
+        - 'Chemical Kinetics'
+    -
+      institution: 'Washington University in St. Louis'
+      title: BS
+      url: 'https://wustl.edu'
+      start: 2011-09
+      end: 2013-05
+      grade: '3.5'
+      summary: 'A multiline summary of the education.'
+      curriculum:
+        - 'Course 1'
+        - 'Course 2'
+        - 'Course 2'
+    -
+      institution: 'Hendrix College'
+      title: BA
+      url: 'https://www.hendrix.edu/'
+      start: 2006-09
+      end: 2011-05
+      grade: '3.3'
+      summary: 'A multiline summary of the education.'
+      curriculum:
+        - 'Course 1'
+        - 'Course 2'
+        - 'Course 2'
+skills:
+  sets:
+    -
+      name: Hardware
+      level: advanced
+      skills:
+        - ARDUINO
+        - 'RASPBERRY PI'
+        - UPVERTER
+    -
+      name: Web
+      level: advanced
+      skills:
+        - JavaScript
+        - LAMP
+        - MVC
+        - REST
+        - PYTHON
+        - FLASK
+        - PHP
+    -
+      name: JavaScript
+      level: intermediate
+      skills:
+        - Node.js
+        - Bootstrap
+        - jQuery
+    -
+      name: Database
+      level: intermediate
+      skills:
+        - MySQL
+        - ORM
+        - SQLITE3
+    -
+      name: Cloud
+      level: intermediate
+      skills:
+        - AWS
+        - EC2
+        - DO
+        - S3
+    -
+      name: Project
+      level: intermediate
+      skills:
+        - GitHub
+  list:
+    -
+      name: C++
+      id: '1'
+      summary: 'Optional summary of your experience with the skill.'
+      level: '9'
+      years: 3
+      proof: 'http://myblog.com/interesting-cplusplus-post'
+    -
+      name: Ruby
+      id: '2'
+      summary: 'Optional summary of your experience with the skill.'
+      level: '9'
+      years: 7
+      proof: 'http://myblog.com/interesting-cplusplus-post'
+    -
+      name: Xcode
+      summary: 'Xcode 6 development.'
+      level: '5'
+      years: '3'
+    -
+      name: Linux
+      summary: 'Optional summary of your experience with the skill.'
+      level: advanced
+      years: 4+
+    -
+      name: Agile
+      summary: 'Optional summary of your experience with the skill.'
+      level: B+
+      years: 2
+samples:
+  -
+    title: 'Examiner Watchdog'
+    summary: 'A database and analysis of all USPTO examiners.'
+    url: 'https://examinerwatchdog.com'
+    date: 2015-01
+  -
+    title: 'Tata Center Air Quality Project'
+    summary: 'Distributed low-cost air quality sensing.'
+    url: 'https://tatacenter-airquality.mit.edu'
+    date: 2016-01
+writing:
+  -
+    title: 'Building User Interfaces with Electron and Atom'
+    flavor: article
+    date: '2011'
+    publisher:
+      name: 'Code Project'
+      url: 'http://codeproject.com'
+    url: 'http://codeproject.com/build-ui-electron-atom.aspx'
+  -
+    title: 'Jane Fullstacker''s Blog'
+    flavor: blog
+    date: '2011'
+    publisher:
+      name: self
+      url: 'http://janef.me'
+    url: 'http://janef.me'
+  -
+    title: 'Teach Yourself GORFF in 21 Days'
+    flavor: book
+    date: '2008'
+    publisher:
+      name: Amazon
+      url: 'https://www.amazon.com'
+    url: 'http://url.to.publication.com/blah'
+    author:
+      - 'Jane Fullstacker'
+      - 'John Smith'
+    summary: 'A primer on the programming language of GORFF, whose for loops are coterminous with all of time and space.'
+recognition:
+  -
+    flavor: award
+    from: AIChE
+    title: 'William Cunningham Award'
+    event: 'National Student Design Competition'
+    date: '2014'
+  -
+    flavor: honor
+    from: 'Cornell University'
+    title: 'Summa cum laude'
+    event: graduation
+    date: '2012'
+languages:
+  -
+    language: English
+    level: Native
+  -
+    language: Spanish
+    level: Moderate
+    years: 10
+extracurricular:
+  -
+    title: 'Bay Area Crew Club'
+    activity: ""
+    location: 'San Francisco, CA'
+    start: 2014-05
+  -
+    title: 'Organizer / Manager'
+    activity: 'JavaScript Game Development Meetup'
+    location: 'Austin, TX'
+    start: 2011-03
+    end: 2014-01
+    highlights:
+      - 'Monthly speaker on creative JavaScript development.'
+      - 'Founded group and oversaw growth to 500+ members.'
+interests:
+  -
+    name: reading
+    summary: 'Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.'
+    keywords:
+      - mystery
+      - 'Agatha Christie'
+      - 'John Grisham'
+  -
+    name: hiking
+    summary: 'Jane enjoys hiking, light mountain climbing, and has four summits under her belt!'
+  -
+    name: yoga
